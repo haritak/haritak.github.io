@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+charitakis yannis, haritak@various places. facebook charitakis.ioannis, github haritak, linked in charitakis ioannis. i'm sure something is missing, but i always forget.
+
+I leave these for the (near) future reference:
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
