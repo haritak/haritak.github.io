@@ -14,6 +14,8 @@ delay time to actually start writing. Plus I need to delete all previous stuff.
 
 From googling fast (less than 1 minute) I couldn't find anything. I believe I'll have to write my own script for fast starting a new post.
 
+![r](/images/ruby.png)
+
 
 [jekyll-home]: http://jekyllrb.com/
 [jekyll-docs]: http://jekyllrb.com/docs/home
