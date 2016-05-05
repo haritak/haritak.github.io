@@ -2,7 +2,7 @@
 layout: post
 title:  "The Jargon File"
 date:   2016-05-05 
-categories: dev
+categories: fun
 ---
 
 This is [soooo great!][jargon-file]. The ultimate guide to the hackers' planet. It even includes their [sexual habits][jargon-sex-habits].
