@@ -1,10 +1,10 @@
 # main links links
 main:
+  title: "About"
+  url: http://ych.gr/about
   #- title: "Quick-Start Guide"
   #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #
-  #- title: "About"
-  #url: https://mmistakes.github.io/minimal-mistakes/
   #
   #- title: "Sample Posts"
   #url: https://mmistakes.github.io/minimal-mistakes/year-archive/

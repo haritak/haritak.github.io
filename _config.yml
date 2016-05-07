@@ -1,3 +1,9 @@
+#
+#
+#
+# DO NOT USE TABS IN HERE
+#
+#
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -11,8 +17,8 @@ title                    : "makeapp"
 title_separator          : "-"
 name                     : "charitakis yannis"
 description              : "random thoughts and notes"
-url                      : "http://ych.gr"
-baseurl                  : "/"
+url                      : #"http://ych.gr"
+baseurl                  : #"/"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -128,7 +134,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
+lsi: true #index of related posts
 excerpt_separator: "\n\n"
 incremental: false
 
@@ -147,9 +153,9 @@ kramdown:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 30 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Athens # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
