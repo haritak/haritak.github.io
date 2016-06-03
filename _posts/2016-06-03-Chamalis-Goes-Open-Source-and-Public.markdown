@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chamalis (Χαμάλης) : The ultimate myschool.sch.gr script to gather grades"
-date:   2016-05-05 
+date:   2016-06-03 
 categories: dev
 ---
 
