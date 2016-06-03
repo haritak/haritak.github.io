@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Learning ruby, jekyll, sinatra and rails 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ych.gr" # the base hostname & protocol for your site
-twitter_username: haritak
+twitter_username: icharitakis
 github_username:  haritak
 
 # Build settings
