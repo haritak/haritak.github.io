@@ -1,7 +1,11 @@
 
+---
+layout: default
+title: Notes and Reminders
+---
+
 Reminders/Notes
 ====
-
 
 
 On writing
