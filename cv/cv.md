@@ -1,9 +1,9 @@
 ---
 title: "cv"
-layout: single
+layout: page
 excerpt: "Βιογραφικό σημείωμα"
 sitemap: true
-permalink: /cv
+permalink: /cv.html
 ---
 
 # Βιογραφικό Σημείωμα
