@@ -1,9 +1,9 @@
 ---
-title: "Yannis Charitakis CV"
+title: "cv"
 layout: single
 excerpt: "Βιογραφικό σημείωμα"
 sitemap: true
-permalink: /cv.html
+permalink: /cv
 ---
 
 # Βιογραφικό Σημείωμα
