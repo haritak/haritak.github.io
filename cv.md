@@ -9,7 +9,11 @@ permalink: /cv.html
 # Βιογραφικό Σημείωμα
 
 ## Πρόσφατα projects
-* [Chamalis][5] : Συλλογή βαθμών για σχολείο.
+* [Chamalis][5] [Εφαρμογή][6]: Συλλογή βαθμών για σχολείο. PHP.
+* [school-scripts][7] : Συλλογή εργαλείων για αυτοποίηση διαδικασιών σε σχολείο. Ruby
+  * efimeries : Script που μαζεύει τα emails των καθηγητών. [Live demo][8]
+  * list-monitoring : Script που παρακολουθεί τα emails λίστας και αναλογα ανταποκρίνεται.[Live demo][9]
+
 
 
 ## Προϋπηρεσία
@@ -37,3 +41,7 @@ permalink: /cv.html
 [3]: http://isd.gr
 [4]: http://ics.forth.gr
 [5]: https://bitbucket.org/i2g/chamalis
+[6]: http://srv-1tee-moiron.ira.sch.gr/chamalis/
+[7]: https://github.com/haritak/myschool-ruby-scripts
+[8]: http://srv-1tee-moiron.ira.sch.gr:13713/
+[9]: http://srv-1tee-moiron.ira.sch.gr:4567/
