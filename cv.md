@@ -29,7 +29,7 @@ permalink: /cv.html
   * Πτυχιακή εργασία στο [KTH][1] της Στοκχόλμης (6 μήνες σε Erasmus)
 * Κάτοχος μεταπτυχιακού τίτλου σπουδών στο τμήμα [Ε.Υ.][2]
   * Ειδίκευση σε device drivers και low level hardware programming
-  *  Δημοσιεύεσεις:
+  *  [Δημοσιεύσεις][10]
 
 
 ## Δημογραφικά στοιχεία
@@ -45,3 +45,4 @@ permalink: /cv.html
 [7]: https://github.com/haritak/myschool-ruby-scripts
 [8]: http://srv-1tee-moiron.ira.sch.gr:13713/
 [9]: http://srv-1tee-moiron.ira.sch.gr:4567/
+[10]: http://independent.academia.edu/IoannisCharitakis
