@@ -21,4 +21,4 @@ permalink: /cv.html
 Δημογραφικά στοιχεία
 *  
 
-[1] http://kth.se
+[1]: http://kth.se
