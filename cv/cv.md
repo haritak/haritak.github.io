@@ -5,6 +5,7 @@ excerpt: "Βιογραφικό σημείωμα"
 sitemap: true
 permalink: /cv.html
 ---
+You can have a [google-translate][tr] of this page to english [here][tr].
 
 # Βιογραφικό Σημείωμα
 
@@ -42,3 +43,4 @@ permalink: /cv.html
 [8]: http://srv-1tee-moiron.ira.sch.gr:13713/
 [9]: http://srv-1tee-moiron.ira.sch.gr:4567/
 [10]: http://independent.academia.edu/IoannisCharitakis
+[tr]: https://translate.google.com/translate?sl=el&tl=en&u=http%3A%2F%2Fych.gr%2Fcv.html
