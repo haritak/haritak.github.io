@@ -4,11 +4,18 @@ title: All because I was a little tired.
 categories: bookmarks, health
 ---
 
-```
-[...]
-When I looked up, 45 minutes had passed. My plan was to work on this post, but instead I took the path of least resistance and dove into endless online distractions. All because I was a little tired.
-[...]
-```
+> 
+>[...]
+> 
+>When I looked up, 45 minutes had passed. 
+>My plan was to work on this post, but instead 
+>I took the path of least resistance and dove into 
+>endless online distractions. 
+> 
+>All because I was a little tired.
+>
+>
+>[...]
 
 Stay healthy, stay strong.
 
