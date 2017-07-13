@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Really nice article for team members.
+title: Forming -> Storming -> Norming -> Performing
 categories: bookmarks, psychology
 ---
 
