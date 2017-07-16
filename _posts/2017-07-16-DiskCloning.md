@@ -46,13 +46,13 @@ I went on to :
 1. Create an encrypted partiotion using cryptsetup
 2. Create a new pool using the encryped partiotion
 3. Copy the old snapshot (`zfsz2/flash_2017@201707_16`)
- to the new filesystem (`sanzrt/r -F`)
+ to the new filesystem (`sanzrt/r`)
 
 {% highlight bash %}
 cryptsetup luksFormat /dev/sdj2 
 cryptsetup luksOpen /dev/sdj2 sanzrt       
 zpool create sanzrt /dev/dm-0      
-zfs send -Rv zfsz2/flash_2017@201707_16 | zfs recv -v  sanzrt/r -F
+zfs send -Rv zfsz2/flash_2017@201707_16 | zfs recv -v  sanzrt/r 
 {% endhighlight %}
 
 Continuing on the new disk:
