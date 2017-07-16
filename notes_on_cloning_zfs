@@ -3,4 +3,4 @@ cryptsetup luksFormat /dev/sdj2
 cryptsetup luksOpen /dev/sdj2 sanzrt       
 zpool create sanzrt /dev/dm-0      
 zfs send -Rv -I zrt/r@201707_01 zrt/r@201707_16 | ssh away zfs recv -v zfsz2/flash_2017
-zfs send -v zfsz2/flash_2017@201707_16 | zfs recv -v  sanzrt/r -F
+zfs send -Rv zfsz2/flash_2017@201707_16 | zfs recv -v  sanzrt/r -F
