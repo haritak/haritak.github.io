@@ -5,7 +5,7 @@ excerpt: "Βιογραφικό σημείωμα"
 sitemap: true
 permalink: /cv.html
 ---
-You can have a [google-translate][tr] of this page in english [here][tr].
+You can [google-translate][tr] this page in english [here][tr].
 
 # Βιογραφικό Σημείωμα
 
