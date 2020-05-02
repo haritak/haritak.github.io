@@ -18,3 +18,5 @@ bitbucket_username: haritak
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-hacker
