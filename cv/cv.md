@@ -1,10 +1,13 @@
 ---
 title: "cv"
 layout: page
-excerpt: "Βιογραφικό σημείωμα"
+excerpt: "Σύντομο βιογραφικό σημείωμα"
 sitemap: true
 permalink: /cv.html
 ---
+
+[comment]: # The previous empty line is important!
+[comment]: # Following line is a comment and shouldn't appear anywhere
 You can [google-translate][tr] this page in english [here][tr].
 
 # Βιογραφικό Σημείωμα
@@ -43,4 +46,4 @@ You can [google-translate][tr] this page in english [here][tr].
 [8]: http://srv-1tee-moiron.ira.sch.gr:13713/
 [9]: http://srv-1tee-moiron.ira.sch.gr:4567/
 [10]: http://independent.academia.edu/IoannisCharitakis
-[tr]: https://translate.google.com/translate?sl=el&tl=en&u=http%3A%2F%2Fych.gr%2Fcv.html
+[tr]: https://translate.google.com/translate?sl=el&tl=en&u=http%3A%2F%2Fharitak.github.io%2Fcv.html
