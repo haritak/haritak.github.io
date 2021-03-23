@@ -17,7 +17,7 @@ permalink: /cv.html
 * 2006-σήμερα : Εκπαιδευτικός Πληροφορικής (ΠΕ19)
 * 2003-2005 : Μηχανικός Λογισμικού στην [ISD][3]. (με έναν χρόνο διάλειμμα
 λόγω στρατιωτικού)
-* 2001-2003 : Μεταπτυχιακή εργασία στο [ΙΤΕ][4] πάνω στην ασφάλεια δικτύων και τον προγραμματισμό IXP1200 (ενσωματωμένος επεξεργαστής). 
+* 2001-2003 : Μεταπτυχιακή εργασία στο [ΙΤΕ][4] πάνω στην ασφάλεια δικτύων και τον προγραμματισμό του IXP1200 (ενσωματωμένος επεξεργαστής). 
 
 ## Αρμοδιότητες
 * Καθηγητής τομέα Πληροφορικής (Μαθήματα: Python (Πανελλαδικά Εξ.), Τομέα Πληροφορικής)
@@ -36,6 +36,12 @@ permalink: /cv.html
   * Cambridge Lower (Επίπεδο Β2)
   * Grundstufe (Επίπεδο Β1)
 
+## Γλώσσες προγραμματισμού
+* [Java][java]
+* [C][c]
+* [Ruby][ruby]
+* [Python][python]
+
 ## Δημογραφικά στοιχεία
 * Έτος γέννησης : 1977
 * Εγγαμος, δύο παιδιά
@@ -43,13 +49,16 @@ permalink: /cv.html
 ## Εργασίες
 * [School Staff][school_staff] : Πρόχειρο σύστημα διαχείρισης προσωπικού. (Γλώσσα προγραμματισμού [Ruby][ruby], πλατφόρμα [Ruby On Rails][RoR])
 * [Inventory][school_inventory] : Πρόχειρο σύστημα διαχείρισης υλικού. (Γλώσσα προγραμματισμού [Ruby][ruby], πλατφόρμα [Ruby On Rails][RoR])
-* [artemis][artemis] : Email monitoring bot. (Γλώσσα προγραμματισμού [Ruby][ruby])
+* [artemis][artemis] : Email triggered bot. (Γλώσσα προγραμματισμού [Ruby][ruby])
 * [Chamalis][ch] : Web based σύστημα συλλογής βαθμολογίας τετραμήνων. (Γλώσσα προγραμματισμού [PHP][php])
 
 
 [ch]: https://bitbucket.org/i2g/chamalis/src/master/
 [school_staff]: https://github.com/haritak/school_staff
 [ruby]: https://www.ruby-lang.org/en/
+[python]: https://www.python.org
+[java]: https://www.java.com/en/
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [php]: https://www.php.net
 [RoR]: https://rubyonrails.org
 [artemis]: https://github.com/haritak/artemis
