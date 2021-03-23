@@ -8,13 +8,9 @@ permalink: /cv.html
 
 [comment]: # The previous empty line is important!
 [comment]: # Following line is a comment and shouldn't appear anywhere
-You can [google-translate][tr] this page in english [here][tr].
+[comment]: # You can [google-translate][tr] this page in english [here][tr].
 
 # Βιογραφικό Σημείωμα
-
-## Εργασίες
-Σύνδεσμοι και περιγραφές για εργασίες (projects) στις οποίες έχω δουλέψει
-βρίσκονται στην [πρώτη σελίδα][0].
 
 ## Προϋπηρεσία
 * Τρέχουσα θέση : 1ο ΕΠΑΛ Μοιρών, υπεύθυνος τομέα πληροφορικής και υπηρεσιών
@@ -23,6 +19,11 @@ You can [google-translate][tr] this page in english [here][tr].
 λόγω στρατιωτικού)
 * 2001-2003 : Μεταπτυχιακή εργασία στο [ΙΤΕ][4] πάνω στην ασφάλεια δικτύων και τον προγραμματισμό IXP1200 (ενσωματωμένος επεξεργαστής). 
 
+## Αρμοδιότητες
+* Καθηγητής τομέα Πληροφορικής (Μαθήματα: Python (Πανελλαδικά Εξ.), Τομέα Πληροφορικής)
+* Διαχείριση/Συντήρηση [LTSP][ltsp] δικτύου υπολογιστών καθηγητών και μαθητών για το 1ο ΕΠΑΛ Μοιρών.
+* Τεχνική υποστήριξη server και ιστοσελίδας σχολείου.
+
 ## Σπουδές
 * Κάτοχος μεταπτυχιακού τίτλου σπουδών στο τμήμα [Επιστήμης Υπολογιστών Ηρακλείου Κρήτης][2]
   * Ειδίκευση σε device drivers και low level hardware programming
@@ -30,10 +31,30 @@ You can [google-translate][tr] this page in english [here][tr].
 * Απόφοιτος Τμήματος [Επιστήμης Υπολογιστών Ηρακλείου Κρήτης.][2]
   * Πτυχιακή εργασία στο [KTH][1] της Στοκχόλμης (7 μήνες σε Erasmus)
 
+## Ξένες γλώσσες
+* Αγγλικά
+  * Cambridge Lower (Επίπεδο Β2)
+  * Grundstufe (Επίπεδο Β1)
 
 ## Δημογραφικά στοιχεία
 * Έτος γέννησης : 1977
 * Εγγαμος, δύο παιδιά
+
+## Εργασίες
+* [School Staff][school_staff] : Πρόχειρο σύστημα διαχείρισης προσωπικού. (Γλώσσα προγραμματισμού [Ruby][ruby], πλατφόρμα [Ruby On Rails][RoR])
+* [Inventory][school_inventory] : Πρόχειρο σύστημα διαχείρισης υλικού. (Γλώσσα προγραμματισμού [Ruby][ruby], πλατφόρμα [Ruby On Rails][RoR])
+* [artemis][artemis] : Email monitoring bot. (Γλώσσα προγραμματισμού [Ruby][ruby])
+* [Chamalis][ch] : Web based σύστημα συλλογής βαθμολογίας τετραμήνων. (Γλώσσα προγραμματισμού [PHP][php])
+
+
+[ch]: https://bitbucket.org/i2g/chamalis/src/master/
+[school_staff]: https://github.com/haritak/school_staff
+[ruby]: https://www.ruby-lang.org/en/
+[php]: https://www.php.net
+[RoR]: https://rubyonrails.org
+[artemis]: https://github.com/haritak/artemis
+[school_inventory]: https://github.com/haritak/school_inventory
+[ltsp]: https://ts.sch.gr/wiki/Linux/LTSP
 
 [0]: /
 [1]: http://kth.se
