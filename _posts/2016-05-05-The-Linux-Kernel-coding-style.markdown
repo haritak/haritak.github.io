@@ -18,4 +18,4 @@ and NOT read it.  Burn them, it's a great symbolic gesture.
 
 The Intro from the [Linux kernel coding style][lk-coding-style]
 
-[lk-coding-style]:https://www.kernel.org/doc/Documentation/CodingStyle
+[lk-coding-style]:https://www.kernel.org/doc/Documentation/process/coding-style.rst
