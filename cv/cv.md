@@ -21,9 +21,12 @@ permalink: /cv.html
 * 2001-2003 : Μεταπτυχιακή εργασία στο [ΙΤΕ][4] πάνω στην ασφάλεια δικτύων και τον προγραμματισμό του IXP1200 (ενσωματωμένος επεξεργαστής). 
 
 ## Αρμοδιότητες
-* Καθηγητής τομέα Πληροφορικής (Μαθήματα: Python (Πανελλαδικά Εξ.), Τομέα Πληροφορικής)
-* Διαχείριση/Συντήρηση [LTSP][ltsp] δικτύου υπολογιστών καθηγητών και μαθητών για το 1ο ΕΠΑΛ Μοιρών.
-* Τεχνική υποστήριξη server και ιστοσελίδας σχολείου.
+* Αναπτυξη web / administrator εφαρμογών
+* Συντήρηση εφαρμογών στο yii framework
+* Συντήρηση Nagios Monitoring System
+* Συντήρηση / Διαχείριση VOIP τηλεφωνικού κέντρου
+* Συντήρηση / Διαχείριση Linux Servers
+
 
 ## Σπουδές
 * Κάτοχος μεταπτυχιακού τίτλου σπουδών στο τμήμα [Επιστήμης Υπολογιστών Ηρακλείου Κρήτης][2]
@@ -50,6 +53,7 @@ permalink: /cv.html
 * Εγγαμος, δύο παιδιά
 
 ## Εργασίες
+* [koita.me][koita_me] : Εγκατάσταση / Διαχείριση οικογενειακού δικτυακού τόπου (web, mail server)
 * [School Staff][school_staff] : Πρόχειρο σύστημα διαχείρισης προσωπικού. (Γλώσσα προγραμματισμού [Ruby][ruby], πλατφόρμα [Ruby On Rails][RoR])
 * [Inventory][school_inventory] : Πρόχειρο σύστημα διαχείρισης υλικού. (Γλώσσα προγραμματισμού [Ruby][ruby], πλατφόρμα [Ruby On Rails][RoR])
 * [artemis][artemis] : Email triggered bot. (Γλώσσα προγραμματισμού [Ruby][ruby])
@@ -67,6 +71,7 @@ permalink: /cv.html
 [artemis]: https://github.com/haritak/artemis
 [school_inventory]: https://github.com/haritak/school_inventory
 [ltsp]: https://ts.sch.gr/wiki/Linux/LTSP
+[koita_me]: https://www.koita.me
 
 [0]: /
 [1]: http://kth.se
