@@ -21,7 +21,7 @@ permalink: /cv.html
 * 2001-2003 : Μεταπτυχιακή εργασία στο [ΙΤΕ][4] πάνω στην ασφάλεια δικτύων και τον προγραμματισμό του IXP1200 (ενσωματωμένος επεξεργαστής). 
 
 ## Αρμοδιότητες
-* Αναπτυξη web / administrator εφαρμογών
+* Αναπτυξη web / administrative εφαρμογών
 * Συντήρηση εφαρμογών στο yii framework
 * Συντήρηση Nagios Monitoring System
 * Συντήρηση / Διαχείριση VOIP τηλεφωνικού κέντρου
@@ -54,10 +54,10 @@ permalink: /cv.html
 
 ## Εργασίες
 * [koita.me][koita_me] : Εγκατάσταση / Διαχείριση οικογενειακού δικτυακού τόπου (web, mail server)
-* [School Staff][school_staff] : Πρόχειρο σύστημα διαχείρισης προσωπικού. (Γλώσσα προγραμματισμού [Ruby][ruby], πλατφόρμα [Ruby On Rails][RoR])
-* [Inventory][school_inventory] : Πρόχειρο σύστημα διαχείρισης υλικού. (Γλώσσα προγραμματισμού [Ruby][ruby], πλατφόρμα [Ruby On Rails][RoR])
-* [artemis][artemis] : Email triggered bot. (Γλώσσα προγραμματισμού [Ruby][ruby])
-* [Chamalis][ch] : Web based σύστημα συλλογής βαθμολογίας τετραμήνων. (Γλώσσα προγραμματισμού [PHP][php])
+* [School Staff][school_staff] : Πρόχειρο σύστημα διαχείρισης προσωπικού. ([Ruby][ruby], [Ruby On Rails][RoR])
+* [Inventory][school_inventory] : Πρόχειρο σύστημα διαχείρισης υλικού. ([Ruby][ruby], [Ruby On Rails][RoR])
+* [artemis][artemis] : Email triggered bot. ([Ruby][ruby])
+* [Chamalis][ch] : Web based σύστημα συλλογής βαθμολογίας τετραμήνων. ([PHP][php])
 
 
 [ch]: https://bitbucket.org/i2g/chamalis/src/master/
