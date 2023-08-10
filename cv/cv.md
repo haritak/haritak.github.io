@@ -53,11 +53,20 @@ permalink: /cv.html
 * Εγγαμος, δύο παιδιά
 
 ## Εργασίες
-* [koita.me][koita_me] : Εγκατάσταση / Διαχείριση οικογενειακού δικτυακού τόπου (web, mail server)
+* [koita.me][koita_me] : Εγκατάσταση / Διαχείριση οικογενειακού δικτυακού τόπου
+  * web server
+  * mail server (domains: ych.me/gr, koita.me, κα)
+  * mattermost server
+  * nextcloud server
 * [School Staff][school_staff] : Πρόχειρο σύστημα διαχείρισης προσωπικού. ([Ruby][ruby], [Ruby On Rails][RoR])
+  * Όλες οι αποφάσεις αδειών (περισσότερες από 500) δημιουργήθηκαν από το σύστημα κατά την
+    διάρκεια χρήσης του (περισσότερο από τρία χρόνια).
 * [Inventory][school_inventory] : Πρόχειρο σύστημα διαχείρισης υλικού. ([Ruby][ruby], [Ruby On Rails][RoR])
 * [artemis][artemis] : Email triggered bot. ([Ruby][ruby])
 * [Chamalis][ch] : Web based σύστημα συλλογής βαθμολογίας τετραμήνων. ([PHP][php])
+* Car pooling helper scripts (WIP)
+* Viber enabled photoframe (WIP)
+* Viber enabled door lock/unlock (WIP)
 
 
 [ch]: https://bitbucket.org/i2g/chamalis/src/master/
