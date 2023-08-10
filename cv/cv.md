@@ -59,13 +59,16 @@ permalink: /cv.html
   * mattermost server
   * nextcloud server
 * [School Staff][school_staff] : Πρόχειρο σύστημα διαχείρισης προσωπικού. ([Ruby][ruby], [Ruby On Rails][RoR])
-  * Όλες οι αποφάσεις αδειών (περισσότερες από 500) δημιουργήθηκαν από το σύστημα κατά την
-    διάρκεια χρήσης του (περισσότερο από τρία χρόνια).
+  * Όλες οι αποφάσεις αδειών (περισσότερες από 400) δημιουργήθηκαν από το σύστημα κατά την
+    διάρκεια χρήσης του (2016 - 2021).
 * [Inventory][school_inventory] : Πρόχειρο σύστημα διαχείρισης υλικού. ([Ruby][ruby], [Ruby On Rails][RoR])
 * [artemis][artemis] : Email triggered bot. ([Ruby][ruby])
 * [Chamalis][ch] : Web based σύστημα συλλογής βαθμολογίας τετραμήνων. ([PHP][php])
 * Car pooling helper scripts (WIP)
+  * Περισσότερα από 400 γκρουπ έχουν δημιουργηθεί με βάση το ωρολόγιο πρόγραμμα σχολείου
 * Viber enabled photoframe (WIP)
+  * 3 photo frames είναι σε λειτουργία για περισσότερο από έναν χρόνο
+    και ενημερώνονται από τους χρήστες τους μέσω viber.
 * Viber enabled door lock/unlock (WIP)
 
 
