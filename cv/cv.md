@@ -42,6 +42,12 @@ permalink: /cv.html
   * Cambridge Lower (Επίπεδο Β2) (1993)
 * Γερμανικά
   * Grundstufe (Επίπεδο Β1) (1994)
+ 
+## Άλλα
+* Coursera Standford Online certificates (Spring 2023):
+  * [Graph Search, Shortest Paths, and Data Structures][coursera_graph]
+  * [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming][coursera_greedy]
+  * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms][coursera_divide]
 
 ## Γλώσσες προγραμματισμού
 * [Java][java]
@@ -93,6 +99,9 @@ permalink: /cv.html
 [school_inventory]: https://github.com/haritak/school_inventory
 [ltsp]: https://ts.sch.gr/wiki/Linux/LTSP
 [koita_me]: https://www.koita.me
+[coursera_graph]: https://cloud.koita.me/s/NrGrANTY9mzGcBf
+[coursera_greedy]: https://cloud.koita.me/s/QPgsLPXy7eA6cBF
+[coursera_divide]: https://cloud.koita.me/s/kGxGKy5Rb6A3R6a
 
 [0]: /
 [1]: http://kth.se
